@@ -3,8 +3,12 @@ header {
     ;
 }
 
-
-
-.logo img {
+.logo {
     width: 30%;
+}
+
+.navbar-nav>li {
+
+    padding-right: 10px;
+    padding-left: 10px;
 }
