@@ -1,6 +1,22 @@
 header {
-    background-color: #FFF9F4;
-    ;
+    background: #FFF9F4;
+
+}
+
+.color-text {
+    font-weight: 700;
+    font-size: 80px;
+}
+
+
+.color-text.orange-color {
+    color: #FA804C;
+
+}
+
+.color-text.dark-blue-color {
+    color: #363958;
+
 }
 
 .logo {
@@ -9,6 +25,19 @@ header {
 
 .navbar-nav>li {
 
-    padding-right: 10px;
-    padding-left: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.nike-btn-buy-now {
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    margin-top: 10px;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    width: 170px;
+    height: 60px;
+    align-items: left;
+
 }
