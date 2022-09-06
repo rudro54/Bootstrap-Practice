@@ -3,18 +3,18 @@ header {
 
 }
 
-.color-text {
+.colored-text {
     font-weight: 700;
     font-size: 80px;
 }
 
 
-.color-text.orange-color {
+.colored-text .orange-color {
     color: #FA804C;
 
 }
 
-.color-text.dark-blue-color {
+.colored-text .dark-blue-color {
     color: #363958;
 
 }
